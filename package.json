@@ -19,5 +19,8 @@
   "homepage": "https://github.com/CaroH502/colorProject#readme",
   "devDependencies": {
     "parcel": "^2.8.2"
+  },
+  "dependencies": {
+    "color-convert": "^2.0.1"
   }
 }
