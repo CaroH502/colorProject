@@ -1,5 +1,7 @@
-.DS_Store
-.parcel-cache
-package-lock.json
 node_modules
+.parcel_cache
 dist
+package-lock.json
+.DS_Store
+.parcel-cache/
+assets/.DS_Store
